@@ -16,7 +16,7 @@
   <title>Whatsapp</title>
 
   <!-- jQuery start -->
-  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="https://code.jquery.com/jquery-latest.min.js"></script>
   <!-- jQuery end -->
 
   <!-- whatsapp start -->
@@ -27,7 +27,7 @@
 <body>
 
   <!-- whatsapp logo start -->
-  <a href="https://wa.me/905413936946" target="_blank"><div id="whatsapp-logo" style="top:0; right:0;"></div></a>
+  <a href="https://wa.me/905413936946" target="_blank"><div id="whatsapp-logo" style="bottom:0; right:0;"></div></a>
   <!-- whatsapp logo end -->
 
 </body>
